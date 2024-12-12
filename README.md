@@ -24,37 +24,37 @@ Ajustes na visualização para melhorar a compreensão dos fenômenos simulados.
 
 Comentários adicionais e refatoração para facilitar o uso educacional.
 
-Dependências
+# Dependências
 
-Certifique-se de que as seguintes dependências estão instaladas para executar o código:
+## Certifique-se de que as seguintes dependências estão instaladas para executar o código:
 
-Julia
+### Julia
 
-FFTW.jl
+### FFTW.jl
 
-Plots.jl
+### Plots.jl
 
-LinearAlgebra (incluído na biblioteca padrão do Julia)
+### LinearAlgebra (incluído na biblioteca padrão do Julia)
 
-ParaView (para visualização dos resultados)
+### ParaView (para visualização dos resultados)
 
-Como Executar
+# Como Executar
 
-Clone o repositório:
+## Clone o repositório:
 
 git clone https://github.com/seu-usuario/seu-repositorio.git
 
-Instale as dependências necessárias no ambiente Julia:
+## Instale as dependências necessárias no ambiente Julia:
 
 using Pkg
 Pkg.add("FFTW")
 Pkg.add("Plots")
 
-Execute o script principal:
+ ## Execute o script principal:
 
 julia stable_fluids_fft_3d.jl
 
-Utilize o ParaView para abrir os arquivos gerados e visualizar os resultados da simulação.
+## Utilize o ParaView para abrir os arquivos gerados e visualizar os resultados da simulação.
 
 # Créditos
 
