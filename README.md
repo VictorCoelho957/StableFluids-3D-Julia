@@ -1,8 +1,8 @@
-#Simulação de Fluidos Estáveis em 3D
+# Simulação de Fluidos Estáveis em 3D
 
 Este repositório contém uma implementação em Julia para a simulação de fluidos estáveis em 3D utilizando a Transformada Rápida de Fourier (FFT). Este trabalho foi baseado no repositório original do autor Ceyron, disponível em english/simulation_scripts/stable_fluids_fft_3d.jl.
 
-Sobre o Projeto
+# Sobre o Projeto
 
 Esta implementação tem como objetivo explorar conceitos de computação gráfica e física computacional, com foco na resolução das equações de Navier-Stokes para fluidos incompressíveis em 3D. As principais equações tratadas são:
 
@@ -10,25 +10,10 @@ Equação do Momentum
 
 
 
-Condição de Incompressibilidade
+# Condição de Incompressibilidade
 
 
-
-Onde:
-
-: campo de velocidade do fluido.
-
-: tempo.
-
-: densidade do fluido.
-
-: pressão.
-
-: viscosidade cinemática.
-
-: forças externas aplicadas ao fluido.
-
-Modificações Realizadas
+# Modificações Realizadas
 
 As alterações foram feitas por Victor Coelho e André Moura, como parte da disciplina de Computação Gráfica no curso de Engenharia da Computação, ministrada pelo Professor Doutor Haroldo Gomes Barroso Filho. As mudanças incluem:
 
@@ -50,6 +35,8 @@ Plots.jl
 
 LinearAlgebra (incluído na biblioteca padrão do Julia)
 
+ParaView (para visualização dos resultados)
+
 Como Executar
 
 Clone o repositório:
@@ -66,6 +53,8 @@ Execute o script principal:
 
 julia stable_fluids_fft_3d.jl
 
+Utilize o ParaView para abrir os arquivos gerados e visualizar os resultados da simulação.
+
 Créditos
 
 Implementação original: Ceyron (Repositório)
@@ -74,6 +63,25 @@ Alterações e adaptações: Victor Coelho e André Moura
 
 Proposto na disciplina de Computação Gráfica pelo Professor Doutor Haroldo Gomes Barroso Filho
 
-Licença
+# Contato dos Autores
 
-Consulte a licença no repositório original para informações sobre os termos de uso.
+
+## André Moura
+
+GitHub: André Moura
+
+LinkedIn: André Moura
+
+E-mail Institucional: 
+
+## Victor Coelho
+
+GitHub: Victor Coelho
+
+LinkedIn: Victor Coelho
+
+E-mail Institucional:
+
+# Licença
+
+Consulte a licença no repositório original para informações sobre os termos de uso..
