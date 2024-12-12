@@ -1,4 +1,5 @@
 # Simulação de Fluidos Estáveis em 3D
+[![NPM](https://img.shields.io/npm/l/react)]() 
 
 Este repositório contém uma implementação em Julia para a simulação de fluidos estáveis em 3D utilizando a Transformada Rápida de Fourier (FFT). Este trabalho foi baseado no repositório original do autor Ceyron, disponível em english/simulation_scripts/stable_fluids_fft_3d.jl.
 
