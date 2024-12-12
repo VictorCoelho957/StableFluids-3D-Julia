@@ -7,7 +7,7 @@ Este repositório contém uma implementação em Julia para a simulação de flu
 
 Esta implementação tem como objetivo explorar conceitos de computação gráfica e física computacional, com foco na resolução das equações de Navier-Stokes para fluidos incompressíveis em 3D. As principais equações tratadas são:
 
-Equação do Momentum
+# Equação do Momentum
 
 
 
