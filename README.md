@@ -9,10 +9,11 @@ Esta implementação tem como objetivo explorar conceitos de computação gráfi
 
 # Equação do Momentum
 
-
+## (u ⋅ ∇) u = − 1/ρ ∇p + ν ∇²u + f
 
 # Condição de Incompressibilidade
 
+## ∇ ⋅ u = 0
 
 # Modificações Realizadas
 
@@ -69,20 +70,20 @@ Proposto na disciplina de Computação Gráfica pelo Professor Doutor Haroldo Go
 
 ## André Moura
 
-GitHub: André Moura
+### GitHub: André Moura
 
-LinkedIn: André Moura
+### LinkedIn: André Moura
 
-E-mail Institucional: 
+### E-mail Institucional: victor.coelho@discente.ufma.br
 
 ## Victor Coelho
 
-GitHub: Victor Coelho
+### GitHub: https://github.com/VictorCoelho957
 
-LinkedIn: Victor Coelho
+### LinkedIn: https://www.linkedin.com/in/victor-coelho-3969271ab/
 
-E-mail Institucional:
+### E-mail Institucional:
 
 # Licença
 
-Consulte a licença no repositório original para informações sobre os termos de uso..
+## Consulte a licença no repositório original para informações sobre os termos de uso.
