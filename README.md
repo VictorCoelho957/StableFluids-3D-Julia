@@ -74,7 +74,7 @@ Proposto na disciplina de Computação Gráfica pelo Professor Doutor Haroldo Go
 
 ### LinkedIn: André Moura
 
-### E-mail Institucional: victor.coelho@discente.ufma.br
+### E-mail Institucional: 
 
 ## Victor Coelho
 
@@ -82,7 +82,7 @@ Proposto na disciplina de Computação Gráfica pelo Professor Doutor Haroldo Go
 
 ### LinkedIn: https://www.linkedin.com/in/victor-coelho-3969271ab/
 
-### E-mail Institucional:
+### E-mail Institucional: victor.coelho@discente.ufma.br
 
 # Licença
 
