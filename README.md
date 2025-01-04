@@ -70,7 +70,7 @@ Proposto na disciplina de Computação Gráfica pelo Professor Doutor Haroldo Go
 
 ## André Moura
 
-### GitHub: André Moura
+### GitHub: https://github.com/AndreMouraL
 
 ### LinkedIn: https://www.linkedin.com/in/andré-moura-lima-6817a9211
 
