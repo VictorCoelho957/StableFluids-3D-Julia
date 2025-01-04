@@ -88,8 +88,8 @@ Proposto na disciplina de Computação Gráfica pelo Professor Doutor Haroldo Go
 
 ## Consulte a licença no repositório original para informações sobre os termos de uso.
 
-#Nota Adicional
+# Nota Adicional
 
-##O trabalho está desenvolvido com esta versão. Quaisquer alterações, favor entrar em contato com os autores.
+## O trabalho está desenvolvido com esta versão. Quaisquer alterações, favor entrar em contato com os autores.
 
 
