@@ -87,3 +87,9 @@ Proposto na disciplina de Computação Gráfica pelo Professor Doutor Haroldo Go
 # Licença
 
 ## Consulte a licença no repositório original para informações sobre os termos de uso.
+
+#Nota Adicional
+
+##O trabalho está desenvolvido com esta versão. Quaisquer alterações, favor entrar em contato com os autores.
+
+
