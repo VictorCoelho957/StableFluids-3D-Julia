@@ -84,8 +84,22 @@ Proposto na disciplina de Computação Gráfica pelo Professor Doutor Haroldo Go
 
 ### E-mail Institucional: victor.coelho@discente.ufma.br
 
+
 # Nota Adicional
 
 ## O trabalho está desenvolvido com esta versão. Quaisquer alterações, favor entrar em contato com os autores.
+
+
+# Citação
+```bibtex
+@InProceedings{coelho2025stablefluids,
+  author    = {Victor Coelho e André Moura},
+  title     = {StableFluids-3D-Julia: Simulação de Fluidos Estáveis em 3D utilizando FFT},
+  booktitle = {GitHub Repository of StableFluids-3D-Julia},
+  month     = {January},
+  year      = {2025},
+  note      = {Adaptado do trabalho original de Ceyron. Desenvolvido como parte da disciplina de Computação Gráfica ministrada pelo Professor Haroldo Gomes Barroso Filho. Inclui modificações para novos parâmetros gráficos, ajustes de visualização e comentários para fins educacionais.}
+}
+
 
 
