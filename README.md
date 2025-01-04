@@ -72,9 +72,9 @@ Proposto na disciplina de Computação Gráfica pelo Professor Doutor Haroldo Go
 
 ### GitHub: André Moura
 
-### LinkedIn: André Moura
+### LinkedIn: https://www.linkedin.com/in/andré-moura-lima-6817a9211
 
-### E-mail Institucional: 
+### E-mail Institucional: am.lima@discente.ufma.bt
 
 ## Victor Coelho
 
