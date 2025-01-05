@@ -99,8 +99,9 @@ Proposto na disciplina de Computação Gráfica pelo Professor Doutor Haroldo Go
   month     = {January},
   year      = {2025},
   note      = {Adaptado do trabalho original de Ceyron. Desenvolvido como parte da disciplina de Computação Gráfica ministrada pelo Professor Haroldo Gomes Barroso Filho. Inclui modificações para novos parâmetros gráficos, ajustes de visualização e comentários para fins educacionais.}
-```
 }
+
+```
 
 
 
