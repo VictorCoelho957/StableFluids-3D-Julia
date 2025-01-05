@@ -91,7 +91,7 @@ Proposto na disciplina de Computação Gráfica pelo Professor Doutor Haroldo Go
 
 
 # Citação
-```bibtex
+```
 @InProceedings{coelho2025stablefluids,
   author    = {Victor Coelho e André Moura},
   title     = {StableFluids-3D-Julia: Simulação de Fluidos Estáveis em 3D utilizando FFT},
@@ -99,6 +99,7 @@ Proposto na disciplina de Computação Gráfica pelo Professor Doutor Haroldo Go
   month     = {January},
   year      = {2025},
   note      = {Adaptado do trabalho original de Ceyron. Desenvolvido como parte da disciplina de Computação Gráfica ministrada pelo Professor Haroldo Gomes Barroso Filho. Inclui modificações para novos parâmetros gráficos, ajustes de visualização e comentários para fins educacionais.}
+```
 }
 
 
